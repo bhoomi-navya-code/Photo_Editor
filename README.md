@@ -53,6 +53,6 @@ the YouTube video learn Python- (https://youtu.be/mDKM-JtUhhc?si=OFGnHm-G1h4vvHk
 **📕Books** 
 - Building Modern GUIs with tkinter and Python: Building user-friendly GUI applications with ease
 
-#🎯 Note
+# 🎯 Note
 
 This project was built primarily for learning and practice. The tutorials and documentation above were used as learning resources while developing the application.
